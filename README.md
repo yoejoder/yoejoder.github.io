@@ -6,7 +6,7 @@
 - JS
 
 ### In-Class Assignments
-- ICA1
+- [ICA1] (file:///Users/joeyoder/Downloads/JY%20Copy%20of%20ICA1%20--%20How%20to%20Search.pdf)
 - ICA2
 - ICA3
 - ICA4
