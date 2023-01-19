@@ -24,7 +24,7 @@
 
 ### Weekly Assignments
     -WA1
-        - username.github.io/wa/wa1.html
+        - yoejoder.github.io/wa/wa1.html
     -WA2
     -WA3
     -WA4
