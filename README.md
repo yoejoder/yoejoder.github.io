@@ -6,12 +6,12 @@
     -JS
 
 ### In-Class Assignments
-    - ICA1
-    - ICA2
-    - ICA3
-    - ICA4
-    - ICA5
-    - ICA6
+    -ICA1
+    -ICA2
+    -ICA3
+    -ICA4
+    -ICA5
+    -ICA6
     -ICA7
     -ICA8
     -ICA9
@@ -23,7 +23,7 @@
     -ICA15
 
 ### Weekly Assignments
-    - [WA1](https://yoejoder.github.io/wa/wa1.html)
+-[WA1](https://yoejoder.github.io/wa/wa1.html) 
     -WA2
     -WA3
     -WA4
