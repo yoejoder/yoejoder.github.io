@@ -7,7 +7,7 @@
 
 ### In-Class Assignments
 - [ICA1](https://drive.google.com/file/d/1e2CWl40RuZ3YLIUkEj74i8zxkLrI__Id/view?usp=sharing)
-- ICA2
+- [ICA2](https://drive.google.com/file/d/1s_MLSOGfiIpQjCpU0URHNczMBy4kn-T6/view?usp=sharing)
 - ICA3
 - ICA4
 - ICA5
