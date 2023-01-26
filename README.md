@@ -6,8 +6,8 @@
 - JS
 
 ### In-Class Assignments
-- [ICA1](https://drive.google.com/file/d/1e2CWl40RuZ3YLIUkEj74i8zxkLrI__Id/view?usp=sharing)
-- [ICA2](https://drive.google.com/file/d/1s_MLSOGfiIpQjCpU0URHNczMBy4kn-T6/view?usp=sharing)
+- [ICA1](ica/JY%20Copy%20of%20ICA1%20--%20How%20to%20Search%20(1).pdf)
+- [ICA2](ica/JY%20Copy%20of%20ICA2%20--%20Exploring%20Directory%20Structures%20(Week%202)%20(1).pdf)
 - ICA3
 - ICA4
 - ICA5
