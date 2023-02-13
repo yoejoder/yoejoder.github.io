@@ -7,7 +7,7 @@ body {
 html {
   font-family: 'Helvetica neue', 'Arial', 'sans serif',;
   font-size: 10px;
-  background-color: rgb(198, 138, 82);
+  background-color: rgb(180, 180, 180);
 }
 
 .card{
@@ -70,7 +70,7 @@ html {
 .headandfoot2{
   height: 3em;
   padding:1em;
-  font-family: 'times new roman';
+  
 }
 
 h2{
