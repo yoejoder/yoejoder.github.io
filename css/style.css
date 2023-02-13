@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Fundamental CSS comprehension</title>
-  </head>
-  <body>
-
-  <section class="card">
-    <header>
-      <h2>Chris Mills</h2>
-    </header>
-    <article>
-      <img src="chris.jpg" alt="A picture of Chris - a man with glasses, a beard, and a silly wooly hat">
-      <p>50 My Street<br>
-         The Town<br>
-         Gray Peach<br>
-         UK<br>
-         ZO50 1MU<br>
-        <strong>Tel</strong>: 01234 567 890<br>
-        <strong>Mail</strong>: chris@nothere.com</p>
-    </article>
-    <footer>
-      <p>Editing, writing, and web development services</p>
-    </footer>
-  </section>
-
-  </body>
-</html>
-
-
-CSS:
-
 /* General styles - put these straight into your stylesheet */
 
 body {
@@ -44,35 +10,94 @@ html {
   background-color: #ccc;
 }
 
-/* Selectors to be matched up with rulesets */
-
-.card article img
-.card footer
-.card header
-.card
-
-/* Rulesets to be matched up with selectors */
-
-{
+.card{
   width: 35em;
   height: 22em;
   margin: 5em auto;
-  background-colour: red;
+  background-color: red;
   border: 0.2em solid black;
   border-radius: 1.5em;
 }
 
-{
+.card2{
+  width: 35em;
+  height: 22em;
+  margin: 5em auto;
+  background-color: lightseagreen;
+  border: 0.2em solid black;
+  border-radius: 1.5em;
+}
+
+.card header{
   background-image: linear-gradient(to bottom,rgba(0,0,0,0.1), rgba(0,0,0,0));
   border-radius: 1.5em 1.5em 0 0;
 }
 
-{
+.card2 header{
+  background-image: linear-gradient(to bottom,rgba(0,0,0,0.1), rgba(0,0,0,0));
+  border-radius: 1.5em 1.5em 0 0;
+}
+
+.card footer{
   background-image: linear-gradient(to bottom,rgba(0,0,0,0), rgba(0,0,0,0.1));
   border-radius: 0 0 1.5em 1.5em;
 }
 
-{
-  max-height: 100%
+.card2 footer{
+  background-image: linear-gradient(to bottom,rgba(0,0,0,0), rgba(0,0,0,0.1));
+  border-radius: 0 0 1.5em 1.5em;
+}
+
+.card article img{
+  max-height: 100%;
+  max-width: 40%;
   float: right;
+}
+
+.card2 article img{
+  max-height: 100%;
+  max-width: 40%;
+    float: right;
+}
+
+.headandfoot{
+  height: 3em;
+  padding:1em;
+}
+
+.headandfoot2{
+  height: 3em;
+  padding:1em;
+}
+
+h2{
+  font-size: 2em;
+  margin: 0;
+  line-height: 1.5em;
+}
+
+p{
+  margin: 0;
+}
+
+artifcle{
+  height:12em;
+    background-color: rgba(0,0,0,0.1);
+}
+
+footer p{
+
+  line-height: 1.5em;
+  font-size: 1.5em;
+}
+
+.footer2 p{
+
+  line-height: 1.5em;
+  font-size: 1.5em;
+}
+
+article p{
+  padding: 1em;
+  color: white;
 }
