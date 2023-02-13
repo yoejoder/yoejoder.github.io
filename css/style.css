@@ -70,6 +70,7 @@ html {
 .headandfoot2{
   height: 3em;
   padding:1em;
+  font-family: 'times new roman';
 }
 
 h2{
@@ -97,6 +98,7 @@ footer p{
 
   line-height: 1.5em;
   font-size: 1.5em;
+  font-family: arial;
 
 }
 
