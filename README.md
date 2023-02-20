@@ -9,7 +9,7 @@
 - [ICA1](ica/JY%20Copy%20of%20ICA1%20--%20How%20to%20Search%20(1).pdf)
 - [ICA2](ica/JY%20Copy%20of%20ICA2%20--%20Exploring%20Directory%20Structures%20(Week%202)%20(1).pdf)
 - [ICA3a](ica/ica3a.html)
-- ICA3b
+- [ICA3b](ica/ic3-part2/ica3b.html)
 - ICA4
 - [ICA5](ica/ica5.html) 
 - ICA6
