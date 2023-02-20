@@ -26,7 +26,7 @@
 ### Weekly Assignments
 - [WA1](wa/wa1.html) 
 - [WA2](wa/wa2.html)
-- WA3    
+- [WA3](wa/wa3.html)    
 - [WA4](wa/wa4.html)
 - [WA5](wa/wa5-Overlays.html)
 - WA6    
