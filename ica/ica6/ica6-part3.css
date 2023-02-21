@@ -10,3 +10,34 @@
 #tallScreen{
     background-color: lavender;
 }
+
+@media only screen and (min-width: 600px) {
+    #narrowScreen{
+        background-color: rgb(122, 0, 128);
+    
+}
+}
+
+@media only screen and (max-width: 800px) {
+    #wideScreen{
+        background-color: rgb(76, 172, 194);
+    
+    
+}
+}
+
+@media only screen and (min-height: 500px) {
+    #shortScreen{
+        background-color: rgba(255, 196, 0, 0.575);
+    
+    
+}
+}
+
+@media only screen and (min-height: 800px) {
+    #tallScreen{
+        background-color: rgb(255, 111, 0);
+    
+    
+}
+}
