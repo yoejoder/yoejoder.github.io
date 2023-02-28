@@ -1,7 +1,7 @@
 # yoejoder.github.io
 
 ### Projects
-- HTML
+- [HTML](/html-midterm/)
 - CSS
 - JS
 
