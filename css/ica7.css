@@ -17,7 +17,7 @@ body{
     height:20vh;
     position: relative;
     background-color: rgb(255, 69, 0);
-    animation: box2move 5s linear 2s infinite alternate;
+    animation: box2move 5s linear 0s infinite alternate;
 
 }
 
