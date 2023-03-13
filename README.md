@@ -2,7 +2,7 @@
 
 ### Projects
 - [HTML](/html-midterm/)
-- [CSS](/css-midterm/cssMidterm.html)
+- [CSS](/css-midterm/index.html)
 - JS
 
 ### In-Class Assignments
