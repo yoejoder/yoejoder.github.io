@@ -2,7 +2,7 @@
 
 ### Projects
 - [HTML](/html-midterm/)
-- CSS
+- [CSS](/css-midterm/art-piece.html)
 - JS
 
 ### In-Class Assignments
