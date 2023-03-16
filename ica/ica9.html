@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introt to JavaScript</title>
+    <style>
+        #button {
+            border: 5px solid darkmagenta;
+            border-radius: 20px;
+            background-color: magenta;
+            padding: 25px 50px;
+            width: 250px;
+            font-size: 50px;
+        }
+        /* #button:hover {
+            animation-name: hoverclick 1s ease 0s 1 ;
+        }
+        @keyframes hoverclick {
+            0% {
+                background-color: magenta;
+            }
+            100% {
+                background-color: rgb(162, 0, 162);
+            }
+        } */
+        p {
+            
+        }
+    </style>
+</head>
+<body>   
+    <div id="button">
+        <p>Click me!</p>
+    </div> 
+    <div class="form">
+        <label for="guessField"> Multiplication: </label> <br>
+        <input type="number"  required id="guessField" class="guessField">    <p>*</p>
+        <input type="number"   required id="guessField2" class="guessField2">
+        <br>
+        <input type="submit" value="Submit" class="guessSubmit">
+
+    <script>
+        console.log("Hello, World!")  
+        let btn = document.querySelector("#button");
+        // console.log(btn);
+        function changeBtn() {
+            //console.log("This worked!")
+            btn.textContent = "TEST";
+            btn.style.backgroundColor = "darkmagenta";
+            btn.style.border = "2px solid magenta";
+            btn.style.color = "white";       
+        }
+
+        btn.addEventListener('click', changeBtn);
+
+        function checkGuess() {
+            
+
+            let value = input1.value * input2.value
+            alert(value)
+        }
+
+        let guessBtn = document.querySelector(".guessSubmit");
+        let input1 = document.querySelector(".guessField");
+        let input2 = document.querySelector(".guessField2");
+
+        guessBtn.addEventListener('click', checkGuess);
+
+
+        
+
+        
+
+    </script>
+</body>
+</html>
