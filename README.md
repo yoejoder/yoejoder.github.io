@@ -34,7 +34,7 @@
 - [WA6](wa/wa6/wa6.html)  
 - [WA7](wa/wa7/wa7.html)
 - WA8
-- WA9
+- [WA9](wa/wa9.html)
 - WA10
 - WA11
 - WA12
