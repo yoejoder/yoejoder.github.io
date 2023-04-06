@@ -1,0 +1,62 @@
+
+.app {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  header {
+    color: #ad0f24;
+    font: small-caps bold 50px/1 helvetica;
+    margin-top: 1rem;
+  }
+  
+  .meme {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .meme-photo {
+    width: 100%;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .meme-text {
+    margin-top: 1rem;
+    color: #000000;
+  font: small-caps bold 1.5rem helvetica;
+
+    
+  }
+  
+  .new-meme {
+    margin-top: 1rem;
+    font: small-caps bold 1.2rem helvetica;
+    padding: 1rem 2rem;
+    border: none;
+    background-color: #cf122b;;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .new-meme:hover {
+    background-color: #8b0b1c;
+  }
+  
+  .counter {
+    margin-top: 1rem;
+    color: #ad0f24;
+  font: small-caps bold 1.5rem helvetica;
+  }
+
+  p {
+    margin-top: 1rem;
+    color: #000000;
+    font: small-caps bold .8rem helvetica;
+  }
