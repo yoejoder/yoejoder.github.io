@@ -20,7 +20,7 @@
 - [ICA9](ica/ica9.html)
 - [ICA10](ica/ica10/ica10.html)
 - [ICA11](ica/ica11/ica11.html)
-- ICA12
+- [ICA12](ica/ica12/ica12.html)
 - ICA13
 - ICA14
 - ICA15
