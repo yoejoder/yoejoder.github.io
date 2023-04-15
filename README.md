@@ -37,7 +37,7 @@
 - [WA9](wa/wa9.html)
 - [WA10](wa/wa10/assignment9.html)
 - [WA11](wa/wa11/wa11.html)
-- WA12
+- [WA12](wa/wa12/wa12.html)
 - WA13
 - WA14
 - WA15
