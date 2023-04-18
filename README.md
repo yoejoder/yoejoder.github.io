@@ -38,6 +38,6 @@
 - [WA10](wa/wa10/assignment9.html)
 - [WA11](wa/wa11/wa11.html)
 - [WA12](wa/wa12/wa12.html)
-- WA13
+- [WA13](wa/wa13/wa13.html)
 - WA14
 - WA15
