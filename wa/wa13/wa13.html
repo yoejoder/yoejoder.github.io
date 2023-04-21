@@ -1,35 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-
-    <link rel="stylesheet" href="wa13.css">
-    <script defer src="wa13.js"></script>
+  <meta charset="UTF-8">
+  <title>Memory Game</title>
+  <link rel="stylesheet" href="wa13.css">
 </head>
 <body>
-    <div>
-        <p>Please select the volume you'd like.</p>
-        <p class="output">50</p>
-    </div> 
-    <div> <!-- plus minus volume changer-->
-        <form>
-            <input class="minus-button" type="button" name="minus-button" value="MINUS">
-            <input class="plus-button" type="button" name="plus-button" value="PLUS">
-            <input class="reset-button" type="button" name="reset-button" value="RESET">
-            <input class="random-button" type="button" name="random-button" value="RANDOM">
-            <input class="submit-button" type="button" name="submit-button" value="SUBMIT">
-        </form>
-    </div>
-    <div> <!-- This will be a slider-->
-        <div class="slidecontainer">
-            <p>Please select the volume you'd like.</p>
-            <input type="range" min="0" max="100x" class="slider" id="myRange">
-            <input class="slider-submit-button" type="button" name="slider-button" value="SUBMIT">
-            <p class="slider-output"></p>
-        </div>
-    </div>
+  <h1>Memory Volume Game</h1>
+  <div class="game-board">
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+  </div>
+  <p>RULES: In this memory volume game you are given 8 options of volume randomly generated from 0-100. In order to choose one of these volume levels,
+     simply win the game of memory!
+  </p>
+  <script src="wa13.js"></script>
 </body>
 </html>
