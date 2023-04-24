@@ -10,6 +10,15 @@
   
   h1 {
     text-align: center;
+    color: #ad0f24;
+    font: small-caps bold 50px/1 helvetica;
+  }
+
+  p {
+    text-align: center;
+    font: helvetica;
+    font-weight: bold;
+    
   }
   
   .game-board {
@@ -54,4 +63,5 @@
       max-width: 400px;
     }
   }
+
   
