@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Memory Volume Game</title>
+  <link rel="stylesheet" href="jsf.css">
+</head>
+<body>
+  <h1>Memory Volume Game</h1>
+  <audio id="click-sound">
+    <source src="click.wav" type="audio/wav">
+  </audio>
+  <audio id="match-sound">
+    <source src="match.wav" type="audio/wav">
+  </audio>
+  <audio id="wrong-sound">
+    <source src="wrong.wav" type="audio/wav">
+  </audio>
+  <audio id="win-sound">
+    <source src="win.wav" type="audio/wav">
+  </audio>
+  <audio id="lose-sound">
+    <source src="lose.wav" type="audio/wav">
+  </audio>
+  <audio id="rick-sound">
+    <source src="rickRoll.wav" type="audio/wav">
+  </audio>
+  
+  <div class ="lives">
+    <span>&hearts;</span>
+    <span>&hearts;</span>
+    <span>&hearts;</span>
+    <span>&hearts;</span>
+    <span>&hearts;</span>
+    <span>&hearts;</span>
+  </div>
+  <button class="start-button">START GAME</button>
+    <div class="game-board">
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+    <div class="card"><span class="card-number"></span></div>
+  </div>
+  <p>RULES: In this memory volume game you are given 8 or less options of volume randomly generated from 0-100. To be able to choose one of these volume levels,
+     simply win the game of MEMORY! Be careful With your matches! Each wrong match you lose 1 of 6 hearts, lose all and the game will reset!
+  </p>
+  <script src="jsf.js"></script>
+</body>
+</html>

@@ -3,7 +3,7 @@
 ### Projects
 - [HTML](/html-midterm/page1.html)
 - [CSS](/css-midterm/index.html)
-- JS
+- [JS](/js-final/jsf.html)
 
 ### In-Class Assignments
 - [ICA1](ica/JY%20Copy%20of%20ICA1%20--%20How%20to%20Search%20(1).pdf)
